@@ -1,0 +1,15 @@
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.csproj.AssemblyReference.cache
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.AssemblyInfoInputs.cache
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.AssemblyInfo.cs
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.csproj.CoreCompileInputs.cache
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\bin\Debug\net6.0\Guessing number game.exe
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\bin\Debug\net6.0\Guessing number game.deps.json
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\bin\Debug\net6.0\Guessing number game.runtimeconfig.json
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\bin\Debug\net6.0\Guessing number game.dll
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\bin\Debug\net6.0\Guessing number game.pdb
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.dll
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\refint\Guessing number game.dll
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.pdb
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\Guessing number game.genruntimeconfig.cache
+C:\Users\jmbk\OneDrive\Pulpit\Guessing number game\Guessing number game\obj\Debug\net6.0\ref\Guessing number game.dll
